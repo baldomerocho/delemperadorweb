@@ -1,0 +1,28 @@
+{
+    "menu":[
+        {
+            "value":"Pagina principal",
+            "url":  "https://delemp.com/",
+            "target":"_self",
+            "alt":"delEmperador"
+        },
+        {
+            "value":"Empleos",
+            "url":  "https://delemp.com/empleos/",
+            "target":"_blank",
+            "alt":"Empleos"
+        },
+        {
+            "value":"Recetas",
+            "url":  "https://delemp.com/recetas/",
+            "target":"_blank",
+            "alt":"Recetas"
+        },
+        {
+            "value":"Grupos Sociales",
+            "url":  "https://delemp.com/grupos/",
+            "target":"_blank",
+            "alt":"Grupos de WhatsApp y Facebook"
+        }
+    ]
+}
